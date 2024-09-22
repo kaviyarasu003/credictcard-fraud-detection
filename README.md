@@ -1,4 +1,4 @@
-# credictcard-fraud-detection
+# codsoft task2-credictcard-fraud-detection
 Build a machine learning model to identify fraudulent credit card
 transactions.
 Preprocess and normalize the transaction data, handle class
